@@ -1,2 +1,2 @@
 # medrasto
-Mega Draft Assistance Toolbox for Clash Royale
+*Me*ga *Dr*aft *As*sistance *To*olbox for Clash Royale
