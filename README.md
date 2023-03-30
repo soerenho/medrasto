@@ -5,7 +5,7 @@
 graph LR
 A[Phone with Clash Royale] --Android--> B(SCRCPY)
 A --iOS--> C(Needs Research)
-B --> D[Image]
+B --> D[Image on PC]
 C --> D
 D --> E(Card Detection)
 E --> F(Card Sort / Better Display)
