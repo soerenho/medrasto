@@ -3,8 +3,13 @@
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
+A[Phone with Clash Royale] --Android--> B(SCRCPY)
+A --iOS--> C(Needs Research)
+B --> D[Image]
 C --> D
+D --> E(Card Detection)
+E --> F(Card Sort / Better Display)
+E --> G(Find Card Synergys)
+E --> H(Opponents Deck Analysis)
+E --> I(Uncountable Cards Finder)
 ```
